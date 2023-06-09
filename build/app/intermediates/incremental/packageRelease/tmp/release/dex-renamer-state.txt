@@ -1,0 +1,4 @@
+#Thu May 25 12:50:14 COT 2023
+base.0=C\:\\Users\\n\\Downloads\\Flutter\\Volver a la version antigua\\APPTraining\\app_training\\build\\app\\intermediates\\dex\\release\\minifyReleaseWithR8\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
